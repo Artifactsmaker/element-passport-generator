@@ -1,6 +1,14 @@
 # Element Passport Generator
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21190991.svg)](https://doi.org/10.5281/zenodo.21190991)
+
 An interactive single-file passport tool built from the Prime Elementology Decay Shadow Atlas.
+
+## Metadata
+
+- **Author:** Phan Thành Trung
+- **ORCID:** [0009-0000-7520-6781](https://orcid.org/0009-0000-7520-6781)
+- **DOI:** [10.5281/zenodo.21190991](https://doi.org/10.5281/zenodo.21190991)
 
 ## What It Is
 
@@ -62,4 +70,3 @@ Upload `element-passport-generator.html` directly to a repository or static host
 ## Relationship To The Main Atlas
 
 The main Prime Elementology Decay Shadow Atlas is a full map-level explorer. Element Passport Generator is the record-level companion: it turns the same atlas universe into readable individual profiles.
-
