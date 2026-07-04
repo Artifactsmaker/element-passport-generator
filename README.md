@@ -57,7 +57,7 @@ The passport fields should be read as atlas relations, not evaluated nuclear dat
 
 ## How To Use
 
-1. Open `element-passport-generator.html` in a modern browser.
+1. Open `index.html` in a modern browser.
 2. Search for a nuclide such as `Te-128`, `Xe-128`, or `Sn-124`.
 3. Select a result from the scanner.
 4. Inspect the passport, path matrix, and element fingerprint.
